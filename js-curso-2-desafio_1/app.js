@@ -6,7 +6,7 @@ function verificar() {
 }
 
 function exibir() {
-    alert('Eu amo JS');
+    alert('Eu amo Python');
 }
 
 function nome() {
